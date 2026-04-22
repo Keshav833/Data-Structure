@@ -8,6 +8,8 @@ using namespace std;
 class Solution {
 public:
     // Approach 1: Using Set (Not Optimal)(Brute Force)
+    // Time Complexity: O(n log n) + O(n) due to set insertion and iteration
+    // Space Complexity: O(n) due to the set storing unique elements
     int removeDuplicates(vector<int>& nums) {
         int n = nums.size();
         set <int> st;
@@ -20,6 +22,21 @@ public:
             index++;
         }
         return index;
+    }
+
+    // Approach 2: Two Pointers (Optimal)
+    // Time Complexity: O(n) where n is the number of elements in the array
+    // Space Complexity: O(1) since we are modifying the array in place
+    int removeDuplicates(vector<int>& nums) {
+        int n = nums.size();
+        int i =0;
+        for(int j =1;j<n;j++){
+            if(nums[i]!=nums[j]){
+                nums[i+1]=nums[j];
+                i++;
+            }
+        }
+        return i+1;
     }
 };
 int main() {

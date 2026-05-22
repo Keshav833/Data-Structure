@@ -12,6 +12,7 @@ struct Node {
     }
 };
 
+
 class Solution {
 public:
 
@@ -114,7 +115,7 @@ void printList(Node* head) {
 int main() {
 
     /*
-        
+
         List 1:
         1 -> 3 -> 5
 

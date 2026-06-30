@@ -15,8 +15,8 @@ public:
         while( r<s.size()){
 
             
-                if(mp.find(s[r])!=mp.end()){
                 window[s[r]]++;
+                if(mp.find(s[r])!=mp.end()){
 
                 if(window[s[r]]<=mp[s[r]]){
                     count++;

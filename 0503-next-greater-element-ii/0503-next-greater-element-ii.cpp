@@ -14,14 +14,17 @@ public:
                 while(!st.empty() && st.top()<=curr){
                     st.pop();
                 }
-                if(st.empty()){
-                    st.push(curr);
-                    ans[i%n]=-1;
+                if( i<n){
+
+                    if(st.empty()){
+                        ans[i%n]=-1;
+                    }
+                    else{
+                        ans[i%n]=st.top();
+                        // st.push(curr);
+                    }
                 }
-                else{
-                    ans[i%n]=st.top();
                     st.push(curr);
-                }
             }
 
         }

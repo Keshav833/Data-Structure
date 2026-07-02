@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/Keshav833/Data-Structure/tree/master/0162-find-peak-element) |
 | [0410-split-array-largest-sum](https://github.com/Keshav833/Data-Structure/tree/master/0410-split-array-largest-sum) |
+| [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0875-koko-eating-bananas](https://github.com/Keshav833/Data-Structure/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Keshav833/Data-Structure/tree/master/0904-fruit-into-baskets) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Keshav833/Data-Structure/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
+| [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Keshav833/Data-Structure/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -46,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->

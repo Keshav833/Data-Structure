@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Keshav833/Data-Structure/tree/master/0410-split-array-largest-sum) |
+| [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
+| [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keshav833/Data-Structure/tree/master/0503-next-greater-element-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->

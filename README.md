@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Keshav833/Data-Structure/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keshav833/Data-Structure/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Keshav833/Data-Structure/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Keshav833/Data-Structure/tree/master/0739-daily-temperatures) |
 | [0875-koko-eating-bananas](https://github.com/Keshav833/Data-Structure/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Keshav833/Data-Structure/tree/master/0904-fruit-into-baskets) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keshav833/Data-Structure/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/Keshav833/Data-Structure/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Keshav833/Data-Structure/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Keshav833/Data-Structure/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->

@@ -54,12 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
+| [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
 | [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav833/Data-Structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/Keshav833/Data-Structure/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/Keshav833/Data-Structure/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Keshav833/Data-Structure/tree/master/0503-next-greater-element-ii) |
@@ -106,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshav833/Data-Structure/tree/master/0225-implement-stack-using-queues) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->

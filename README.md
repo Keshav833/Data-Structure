@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Keshav833/Data-Structure/tree/master/0110-balanced-binary-tree) |
+| [0785-is-graph-bipartite](https://github.com/Keshav833/Data-Structure/tree/master/0785-is-graph-bipartite) |
 ## Binary Tree
 |  |
 | ------- |
@@ -119,4 +120,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Keshav833/Data-Structure/tree/master/0785-is-graph-bipartite) |
+## Union-Find
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Keshav833/Data-Structure/tree/master/0785-is-graph-bipartite) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Keshav833/Data-Structure/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->

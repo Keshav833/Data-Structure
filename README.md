@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Keshav833/Data-Structure/tree/master/0904-fruit-into-baskets) |
 ## Sliding Window
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/Keshav833/Data-Structure/tree/master/0904-fruit-into-baskets) |
 ## Dynamic Programming
 |  |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
 | [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keshav833/Data-Structure/tree/master/0227-basic-calculator-ii) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
 ## Stack
 |  |

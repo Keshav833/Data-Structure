@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0410-split-array-largest-sum](https://github.com/Keshav833/Data-Structure/tree/master/0410-split-array-largest-sum) |
 ## Greedy
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Keshav833/Data-Structure/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keshav833/Data-Structure/tree/master/0227-basic-calculator-ii) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Keshav833/Data-Structure/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/Keshav833/Data-Structure/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Keshav833/Data-Structure/tree/master/1757-recyclable-and-low-fat-products) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Keshav833/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav833/Data-Structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Keshav833/Data-Structure/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/Keshav833/Data-Structure/tree/master/0189-rotate-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Keshav833/Data-Structure/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Keshav833/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Keshav833/Data-Structure/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Keshav833/Data-Structure/tree/master/0410-split-array-largest-sum) |
@@ -184,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Keshav833/Data-Structure/tree/master/0062-unique-paths) |
+## Matrix
+|  |
+| ------- |
+| [0063-unique-paths-ii](https://github.com/Keshav833/Data-Structure/tree/master/0063-unique-paths-ii) |
 <!---LeetCode Topics End-->

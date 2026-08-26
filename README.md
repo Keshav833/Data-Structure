@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Keshav833/Data-Structure/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Keshav833/Data-Structure/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Keshav833/Data-Structure/tree/master/0410-split-array-largest-sum) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Keshav833/Data-Structure/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Keshav833/Data-Structure/tree/master/0189-rotate-array) |
 | [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
@@ -178,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Keshav833/Data-Structure/tree/master/1137-n-th-tribonacci-number) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Keshav833/Data-Structure/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->

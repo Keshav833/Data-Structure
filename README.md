@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Keshav833/Data-Structure/tree/master/0410-split-array-largest-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Keshav833/Data-Structure/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Keshav833/Data-Structure/tree/master/1143-longest-common-subsequence) |
 ## Greedy
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Keshav833/Data-Structure/tree/master/0227-basic-calculator-ii) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
+| [1143-longest-common-subsequence](https://github.com/Keshav833/Data-Structure/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -190,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Keshav833/Data-Structure/tree/master/0063-unique-paths-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Keshav833/Data-Structure/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->

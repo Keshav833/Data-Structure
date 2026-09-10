@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Keshav833/Data-Structure/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Keshav833/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Keshav833/Data-Structure/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Keshav833/Data-Structure/tree/master/0210-course-schedule-ii) |
 | [0785-is-graph-bipartite](https://github.com/Keshav833/Data-Structure/tree/master/0785-is-graph-bipartite) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Keshav833/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0110-balanced-binary-tree](https://github.com/Keshav833/Data-Structure/tree/master/0110-balanced-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Keshav833/Data-Structure/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
 | ------- |

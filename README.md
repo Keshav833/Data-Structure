@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Keshav833/Data-Structure/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keshav833/Data-Structure/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Keshav833/Data-Structure/tree/master/1539-kth-missing-positive-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keshav833/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Keshav833/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Keshav833/Data-Structure/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Keshav833/Data-Structure/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keshav833/Data-Structure/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Keshav833/Data-Structure/tree/master/1539-kth-missing-positive-number) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keshav833/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Hash Table
 |  |
 | ------- |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/Keshav833/Data-Structure/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Keshav833/Data-Structure/tree/master/1143-longest-common-subsequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keshav833/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
@@ -224,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Keshav833/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
+## Sorting
+|  |
+| ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keshav833/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 <!---LeetCode Topics End-->

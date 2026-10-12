@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Keshav833/Data-Structure/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keshav833/Data-Structure/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Keshav833/Data-Structure/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Keshav833/Data-Structure/tree/master/0904-fruit-into-baskets) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/Keshav833/Data-Structure/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/Keshav833/Data-Structure/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Keshav833/Data-Structure/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0387-first-unique-character-in-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
 | [1143-longest-common-subsequence](https://github.com/Keshav833/Data-Structure/tree/master/1143-longest-common-subsequence) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Keshav833/Data-Structure/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -245,4 +248,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Keshav833/Data-Structure/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->

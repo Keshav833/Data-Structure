@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keshav833/Data-Structure/tree/master/0001-two-sum) |
 | [0063-unique-paths-ii](https://github.com/Keshav833/Data-Structure/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Keshav833/Data-Structure/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/Keshav833/Data-Structure/tree/master/0162-find-peak-element) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Keshav833/Data-Structure/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |

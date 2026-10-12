@@ -11,8 +11,9 @@ public:
             mp1[s[i]]++;
             mp2[t[i]]++;
         }
-        for(int i =0 ; i < mp1.size() ; i++){
-            if( mp2[i]!=mp1[i]) return false;
+         for (auto x : mp1) {
+            if (mp2[x.first] < x.second)
+                return false;
         }
         return true ;
 

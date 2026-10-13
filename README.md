@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Keshav833/Data-Structure/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Keshav833/Data-Structure/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/Keshav833/Data-Structure/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Keshav833/Data-Structure/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Keshav833/Data-Structure/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Keshav833/Data-Structure/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav833/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Keshav833/Data-Structure/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0189-rotate-array](https://github.com/Keshav833/Data-Structure/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Keshav833/Data-Structure/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Keshav833/Data-Structure/tree/master/0349-intersection-of-two-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/Keshav833/Data-Structure/tree/master/0680-valid-palindrome-ii) |
 ## String Matching
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Keshav833/Data-Structure/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Keshav833/Data-Structure/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Keshav833/Data-Structure/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Keshav833/Data-Structure/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keshav833/Data-Structure/tree/master/0227-basic-calculator-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Keshav833/Data-Structure/tree/master/1137-n-th-tribonacci-number) |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Keshav833/Data-Structure/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Keshav833/Data-Structure/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

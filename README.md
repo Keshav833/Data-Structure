@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keshav833/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Keshav833/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
 | [3903-smallest-stable-index-i](https://github.com/Keshav833/Data-Structure/tree/master/3903-smallest-stable-index-i) |
+| [3934-smallest-unique-subarray](https://github.com/Keshav833/Data-Structure/tree/master/3934-smallest-unique-subarray) |
 ## Binary Search
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Keshav833/Data-Structure/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Keshav833/Data-Structure/tree/master/1539-kth-missing-positive-number) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Keshav833/Data-Structure/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Keshav833/Data-Structure/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Keshav833/Data-Structure/tree/master/0496-next-greater-element-i) |
 | [0904-fruit-into-baskets](https://github.com/Keshav833/Data-Structure/tree/master/0904-fruit-into-baskets) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Keshav833/Data-Structure/tree/master/3483-unique-3-digit-even-numbers) |
+| [3934-smallest-unique-subarray](https://github.com/Keshav833/Data-Structure/tree/master/3934-smallest-unique-subarray) |
 ## Sliding Window
 |  |
 | ------- |
@@ -273,4 +276,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Keshav833/Data-Structure/tree/master/0202-happy-number) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Keshav833/Data-Structure/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Keshav833/Data-Structure/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Keshav833/Data-Structure/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->

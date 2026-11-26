@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Keshav833/Data-Structure/tree/master/0735-asteroid-collision) |
+| [3360-stone-removal-game](https://github.com/Keshav833/Data-Structure/tree/master/3360-stone-removal-game) |
 ## Tree
 |  |
 | ------- |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/Keshav833/Data-Structure/tree/master/0224-basic-calculator) |
 | [0227-basic-calculator-ii](https://github.com/Keshav833/Data-Structure/tree/master/0227-basic-calculator-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/Keshav833/Data-Structure/tree/master/1137-n-th-tribonacci-number) |
+| [3360-stone-removal-game](https://github.com/Keshav833/Data-Structure/tree/master/3360-stone-removal-game) |
 | [3871-count-commas-in-range-ii](https://github.com/Keshav833/Data-Structure/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |

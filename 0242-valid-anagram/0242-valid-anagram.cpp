@@ -1,21 +1,19 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        int n1 = s.size();
-        int n2 = t.size();
-        if( n1!=n2) return false;
-        unordered_map<int,int> mp1;
-        unordered_map<int,int> mp2;
-
-        for( int i=0; i <n1; i++){
-            mp1[s[i]]++;
-            mp2[t[i]]++;
+        if( s.size()!=t.size()) return false;
+        unordered_map<char,int> hash1;
+        unordered_map<char,int> hash2;
+        for( char c:s){
+            hash1[c]++;
         }
-         for (auto x : mp1) {
-            if (mp2[x.first] < x.second)
-                return false;
+        for( char c:t){
+            hash2[c]++;
         }
-        return true ;
+        // for( int i =0; i <26;i++){
+        //     if( hash1[i]!=hash2[i]) return false;
+        // }
+        return hash1==hash2;
 
     }
 };
